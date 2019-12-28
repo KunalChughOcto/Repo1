@@ -64,6 +64,9 @@ public class Sequence {
     public void AfterSuite() {
     	System.out.println("I am after suite");
     }
+   public void print() {
+	   System.out.println("git change");
+   }
 }
     
 	
